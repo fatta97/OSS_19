@@ -39,13 +39,21 @@ yaitu menu:**
         7. Logout
       
 **Cara Penggunaan:**
+
         1. Buat Database samanda import file samanda.sql
+        
         2. login dengan User: Fatta dan Password: Fatta Sebagai User Admin
+        
         3. login dengan user: bima dan password: bima Sebagai User Biasa
+        
         4. Letakan Semua File pada 1 Folder
         
 **Penyusun Project:**
+
         1. Menu Login,Beranda,Daftar Buku,Tambah Buku,Pinjam Buku,Logout dibuat Oleh G.211.16.0019(Fatta Dharmawan Nasrullah Wijaya)
+        
         2. Menu Pinjam Buku dibuat oleh : G.211.16.0044(Rifa Afifah)
+        
         3. Menu Laporan dibuat oleh: G.211.16.0017(Wahyu Istiarso)
+        
         4. Menu Tambah Member dibuat oleh: G.211.16.0031(Ahmad Feri Aditya)
