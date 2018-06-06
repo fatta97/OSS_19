@@ -19,6 +19,8 @@ git push -u origin master
 
 5. Silahkan Update Readme jika anda telah melakukan Contributing
 
+6. untuk menggunakan aplikasi baca Readme
+
 
 [facebook admin]: http://www.fb.com/BIG997
 [Instagram admin]: http://www.instagram.com/Fatta_Wijaya
