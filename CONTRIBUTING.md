@@ -1,15 +1,14 @@
 ## Contributing
 
-1. Jika ingin ber Contributing,silahkan clone dan forking ke https://github.com/fatta97/OSS_19
-	dengan cara
-	
-	```sh
+1. Jika ingin ber Contributing,silahkan clone dan forking ke https://github.com/fatta97/OSS_1 dengan cara:
+
+```sh
 git clone https://github.com/fatta97/OSS_19
 ```
 
 2. jika sudah lakukan push data/fitur yang anda tambahkan atau rubah dengan cara
 
-	```sh
+```sh
 git push -u origin master
 ```
 
@@ -20,7 +19,6 @@ git push -u origin master
 
 5. Silahkan Update Readme jika anda telah melakukan Contributing
 
-* `bundle exec rake release`
 
 [facebook admin]: http://www.fb.com/BIG997
 [Instagram admin]: http://www.instagram.com/Fatta_Wijaya
