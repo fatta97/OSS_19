@@ -11,7 +11,7 @@
 ##### Deskripsi Project
 Project Perpustkaan USM yang memiliki 4 Menu untuk user biasa
 yaitu menu:
-         -Beranda-
-        - Daftar Buku-
-        - Pinjam Buku-
-        - Logout-
+        >*Beranda
+        >*Daftar Buku
+        >*Pinjam Buku
+        >*Logout
