@@ -10,7 +10,7 @@
 >**4. Wahyu Istiarso (G.211.16.0017)**
 ### Deskripsi Project
 
-**Project Perpustkaan USM yang memiliki 4 Menu untuk user biasa
+**Project Perpustkaan USM memiliki 4 Menu untuk USER BIASA
 yaitu menu:**
 
         1.Beranda
@@ -20,3 +20,20 @@ yaitu menu:**
         3.Pinjam Buku
         
         4.Logout
+        
+**Project Perpustkaan USM yang memiliki 7 Menu untuk USER ADMIN
+yaitu menu:**
+
+        1.Beranda
+        
+        2.Daftar Buku
+        
+        3.Tambah Buku
+        
+        4.Pinjam Buku
+      
+        5.Laporan
+        
+        6. Tambah Member
+        
+        7. Logout
