@@ -13,10 +13,10 @@
 **Project Perpustkaan USM yang memiliki 4 Menu untuk user biasa
 yaitu menu:**
 
-        >*1.Beranda*
+        1.Beranda
         
-        >*2.Daftar Buku*
+        2.Daftar Buku
         
-        >*3.Pinjam Buku*
+        3.Pinjam Buku
         
-        >*4.Logout*
+        4.Logout
